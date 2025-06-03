@@ -1,0 +1,11 @@
+{
+  "name": "age-calculator",
+  "version": "1.0.0",
+  "description": "Simple age calculator website",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
